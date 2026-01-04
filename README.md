@@ -1,2 +1,2 @@
-# ProgramTemplate
-Template for new program of study
+# Programme Template
+Landing page for entire programmes of study
