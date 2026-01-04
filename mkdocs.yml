@@ -2,8 +2,8 @@ site_name: Program Template
 site_url: https://example.com
 theme:
   name: readthedocs
+  logo: images/DeathStar.jpg
 
-logo: images/DeathStar.jpg
 copyright: Copyright © 2026, John O'Raw
 
 markdown_extensions:
