@@ -1,18 +1,18 @@
 # Introduction
 
-!!! abstract "This site contains basic notes in Hybrid Cloud Technology."
+!!! abstract "This site contains basic notes in PROGRAMME."
 
 
-Welcome to this module, Hybrid Cloud Technology (HCT). I plan and orchestrate my modules with 10 weeks of content, weeks 2-11. This iteration of the module was arranged for e-delivery for remote students.
+Welcome to this module, PROGRAMME. I plan and orchestrate my modules with 10 weeks of content, weeks 2-11. This iteration of the module was arranged for e-delivery for remote students.
 
 I reserve week 1 for introductions and getting started.
 
 The major areas covered in weeks 2-11 are
 
-- Hardware Platforms
-- Desktop Virtualization
-- Server Virtualization
-- Storage and Networking  
+- Topic 1
+- Topic 2
+- Topic 3
+- Topic 4  
 
 I reserve week 12/13 for clean up at the end...or run over time if we need it.
 

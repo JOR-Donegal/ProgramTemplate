@@ -1,4 +1,6 @@
 # Week 7
-You already have a good background in hypervisors and the associated terminology. This week we are going to look into Microsoft's Hyper-V.
+General description
 
-For students who do not do a Storage module with me, I also have some background study in storage technology for you to do.
+## Actions
+
+1. Do stuff, include a link with details
